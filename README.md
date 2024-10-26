@@ -2,7 +2,6 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Crawler Data Kartu Peserta UTS UNISLA</title>
 </head>
 <body>
 
